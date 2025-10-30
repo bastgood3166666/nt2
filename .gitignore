@@ -9,7 +9,7 @@ extractor
 __pycache__
 src/version.rs
 *dmg
-*exe
+*exe4
 *tgz
 cert.pfx
 *.bak
